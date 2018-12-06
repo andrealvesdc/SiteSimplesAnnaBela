@@ -10,30 +10,25 @@ body{
 	background: #c5c5b2;
 	padding: 18px
 }
-
 #conteudo {
 	background: #e8e8d9;
 	padding: 18px;
 }
-
 a {
 	color: #4b566a;
 	text-decoration: nome;
 	font-weight: bold;
 	padding: 5px;
-
 }
 
 .centralizar {
 	text-align: center;
 }
-
 }
 
 .img-campanha {
 	border: 10px solid #c3c3ae;
 }
-
 h1 {
 	color: #828271;
 	font-size: 1.2em;
